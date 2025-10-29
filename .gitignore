@@ -1,0 +1,35 @@
+# OS / Editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+
+# Virtual env
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / cache
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
